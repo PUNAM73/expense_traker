@@ -27,7 +27,7 @@ import json
 
 
 # variable
-user = "Tasnim"
+user = "Punam"
 expense_date = '13-12-2023'
 amount = 4000
 category = 'shopping'
