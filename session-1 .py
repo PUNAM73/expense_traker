@@ -29,11 +29,11 @@ for data in expense_data:
 
 
 # variable
-author  = "Kalim"
-amount = 10.5
+author  = "Punam"
+amount = 10
 date = '13-12-2023'
 category = 'Shopping'
-notes = 'puchasing gift for my mom'
+notes = 'puchasing gift for my maa'
 uploaded_files = 'gift_purchase_13_12_2023.png'
 
 # print("Author: ", author, "\nAmount: ", amount, "\nDate: ", date)
@@ -47,7 +47,7 @@ uploaded_files = 'gift_purchase_13_12_2023.png'
 # reporting
 
 def expense_record():
-    if author=='Kalim':
+    if author=='Punam':
         print(f"Hi Admin {author}", end=', ')
     else:
         print(f"Hi {author}", end=', ')
